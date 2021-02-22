@@ -1,4 +1,4 @@
-# Welcome！<img src="https://giphy.com/gifs/CWkoXi05ji0Ny/html5" width="27px"> 
+# Welcome！<img src="http://gph.is/XIwSyg" width="27px"> 
 
 𝗜'𝗺 [Franco](https://github.com/francoxr)！𝗜'𝗺 𝗮 mechatronic 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 **wants make a change in the lives of people with technology**
 
