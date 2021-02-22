@@ -4,13 +4,13 @@
 
 <h2 align="center">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working at my home
+- 🌱 I’m currently learning python in depth way
+- 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
+- 🤔 I’m looking for help with understand more javascript
+- 💬 Ask me about how to train o methods for study.
 - 📫 How to reach me: franco.roca.pe@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Rock
 - ⚡ Fun fact: I love 
 
 <h2 align="center">Also you can reach me at :alien:</h2>
