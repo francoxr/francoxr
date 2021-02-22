@@ -1,4 +1,4 @@
-# Welcome！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# Welcome！<img src="https://giphy.com/gifs/CWkoXi05ji0Ny/html5" width="27px"> 
 
 𝗜'𝗺 [Franco](https://github.com/francoxr)！𝗜'𝗺 𝗮 mechatronic 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 **wants make a change in the lives of people with technology**
 
@@ -42,4 +42,3 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=francoxr&show_icons=true&theme=outrun" alt="francoxr :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
